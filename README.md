@@ -1,4 +1,4 @@
-# Database-Relational-Hotel-Reservation
+# Database Relational for Hotel Reservation Website
 MyHotel adalah sebuah hotel bintang 5 di kota Yogyakarta yang menyediakan tiga pilihan kamar yaitu: Premier, Deluxe, dan Executive Room dengan berbagai pilihan jenis ranjang sesuai kebutuhan customer
 
 ## Daftar Isi
