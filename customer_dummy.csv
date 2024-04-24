@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone
+1,Lala,Ramadan,Lala.Ramadan@cv.go.id,0865728008
+2,Mursita,Pudjiastuti,Mursita.Pudjiastuti@cv.desa.id,+62 (060) 117 8653
+3,Lanang,Mayasari,Lanang.Mayasari@pd.go.id,084 588 9730
+4,Mulya,Rajasa,Mulya.Rajasa@ud.mil,(087) 762-7730
+5,Umar,Puspasari,Umar.Puspasari@pt.or.id,+62 (441) 747-3934
+6,Cager,Prayoga,Cager.Prayoga@pt.mil.id,+62 (52) 932-2959
+7,Maimunah,Ramadan,Maimunah.Ramadan@pt.mil.id,+62 (50) 628-7124
+8,Mahfud,Thamrin,Mahfud.Thamrin@ud.edu,+62 (0679) 771 8847
+9,Zaenab,Suryatmi,Zaenab.Suryatmi@perum.id,+62-64-190-6180
+10,Silvia,Aryani,Silvia.Aryani@pt.my.id,083 939 5511
+11,Cahya,Kuswoyo,Cahya.Kuswoyo@perum.org,+62-09-856-9244
+12,Widya,Hasanah,Widya.Hasanah@pt.or.id,+62 (0180) 398 5393
+13,Yuni,Utami,Yuni.Utami@ud.co.id,+62 (083) 868-9278
+14,Gawati,Hutapea,Gawati.Hutapea@ud.net.id,+62-401-376-7716
+15,Maria,Habibi,Maria.Habibi@pd.go.id,+62-0500-291-4923
+16,Maman,Prabowo,Maman.Prabowo@ud.web.id,+62-421-694-4345
+17,Damar,Astuti,Damar.Astuti@perum.mil.id,+62-787-946-8239
+18,Jayeng,Nasyidah,Jayeng.Nasyidah@ud.mil.id,+62-0249-818-7700
+19,Luthfi,Pratiwi,Luthfi.Pratiwi@pt.net.id,(0431) 269 8307
+20,Umay,Budiyanto,Umay.Budiyanto@cv.my.id,+62 (33) 356-2712
+21,Vera,Kurniawan,Vera.Kurniawan@perum.mil.id,+62-0107-042-1463
+22,Umaya,Wulandari,Umaya.Wulandari@cv.go.id,+62 (043) 942 0127
+23,Nardi,Padmasari,Nardi.Padmasari@perum.biz.id,+62 (21) 149 1030
+24,Kajen,Prasasta,Kajen.Prasasta@ud.ac.id,0880688793
+25,Rahayu,Siregar,Rahayu.Siregar@perum.id,+62-0677-945-7766
+26,Martana,Prastuti,Martana.Prastuti@perum.web.id,(091) 239-2606
+27,Parman,Laksita,Parman.Laksita@ud.com,(0993) 590-1339
+28,Rahayu,Sihombing,Rahayu.Sihombing@ud.biz.id,0843296252
+29,Jaiman,Adriansyah,Jaiman.Adriansyah@perum.go.id,(0125) 067 7113
+30,Kanda,Saragih,Kanda.Saragih@cv.mil,+62 (021) 863 6407
+31,Sarah,Simanjuntak,Sarah.Simanjuntak@pt.int,081 872 5571
+32,Dasa,Nuraini,Dasa.Nuraini@cv.biz.id,+62 (24) 047 0575
+33,Dasa,Puspasari,Dasa.Puspasari@ud.desa.id,087 020 2459
+34,Dimaz,Prayoga,Dimaz.Prayoga@pt.mil.id,+62 (038) 347 3380
+35,Daryani,Agustina,Daryani.Agustina@pd.edu,+62 (0304) 086-6751
+36,Dasa,Mahendra,Dasa.Mahendra@cv.org,(0928) 741-9087
+37,Keisha,Pertiwi,Keisha.Pertiwi@pd.mil,0878660972
+38,Paiman,Damanik,Paiman.Damanik@pd.edu,(039) 462 9161
+39,Eli,Prasetya,Eli.Prasetya@perum.desa.id,+62 (072) 253 4134
+40,Zelaya,Sirait,Zelaya.Sirait@cv.mil,+62-30-766-3245
+41,Suci,Hutapea,Suci.Hutapea@ud.net.id,(062) 073-5687
+42,Yani,Thamrin,Yani.Thamrin@pt.sch.id,+62 (22) 214 0582
+43,Hairyanto,Tampubolon,Hairyanto.Tampubolon@cv.web.id,+62 (084) 645-1544
+44,Gada,Purnawati,Gada.Purnawati@pt.biz.id,+62 (591) 400 0785
+45,Gandi,Agustina,Gandi.Agustina@cv.web.id,(048) 261-7039
+46,Violet,Januar,Violet.Januar@cv.ponpes.id,082 848 2301
+47,Heru,Permadi,Heru.Permadi@cv.go.id,(097) 510-4385
+48,Bakiadi,Prayoga,Bakiadi.Prayoga@cv.go.id,+62-50-038-8614
+49,Pangeran,Kusmawati,Pangeran.Kusmawati@perum.desa.id,(002) 786 2420
+50,Saadat,Utama,Saadat.Utama@pd.ac.id,+62 (0986) 021 2612
+51,Heru,Laksita,Heru.Laksita@perum.edu,+62 (034) 261-9664
+52,Cahyono,Saptono,Cahyono.Saptono@pd.edu,(006) 847 0704
+53,Nasab,Puspasari,Nasab.Puspasari@cv.edu,+62 (0366) 558-3273
+54,Cakrawala,Mansur,Cakrawala.Mansur@pt.co.id,+62 (09) 005 9415
+55,Garang,Sinaga,Garang.Sinaga@pd.id,+62 (031) 573 6061
+56,Cemplunk,Irawan,Cemplunk.Irawan@cv.ac.id,+62-074-713-8506
+57,Edison,Mulyani,Edison.Mulyani@pt.biz.id,+62 (89) 798-2315
+58,Gading,Purnawati,Gading.Purnawati@pd.or.id,(0627) 446-6375
+59,Raden,Januar,Raden.Januar@pd.or.id,(0471) 976-2710
+60,Bakidin,Situmorang,Bakidin.Situmorang@cv.mil.id,+62 (004) 090-5553
+61,Ade,Hassanah,Ade.Hassanah@ud.mil.id,+62-043-756-4314
+62,Luwar,Pradana,Luwar.Pradana@cv.id,+62 (068) 406-6200
+63,Darmaji,Suryatmi,Darmaji.Suryatmi@ud.sch.id,+62-99-764-4897
+64,Rudi,Yuliarti,Rudi.Yuliarti@ud.id,(0715) 576-3128
+65,Kajen,Suryono,Kajen.Suryono@perum.desa.id,+62 (78) 342 1486
+66,Rosman,Yuniar,Rosman.Yuniar@cv.id,+62-0149-824-2696
+67,Irwan,Purnawati,Irwan.Purnawati@cv.id,+62 (063) 955-8365
+68,Gangsa,Haryanti,Gangsa.Haryanti@perum.mil,+62 (014) 081-7843
+69,Radit,Ramadan,Radit.Ramadan@pd.id,+62 (99) 604-5513
+70,Uchita,Tarihoran,Uchita.Tarihoran@ud.ac.id,+62-06-587-5190
+71,Vinsen,Suryatmi,Vinsen.Suryatmi@pd.org,+62 (009) 279 9372
+72,Daliono,Narpati,Daliono.Narpati@pt.net,(099) 155 4373
+73,Zelaya,Wulandari,Zelaya.Wulandari@perum.co.id,(060) 047-6023
+74,Ana,Nurdiyanti,Ana.Nurdiyanti@cv.net.id,+62 (008) 651-4944
+75,Tirtayasa,Winarno,Tirtayasa.Winarno@pt.id,+62-86-324-9671
+76,Hari,Andriani,Hari.Andriani@ud.com,+62 (294) 056 5694
+77,Lintang,Nugroho,Lintang.Nugroho@pd.com,+62-066-949-9574
+78,Bakiman,Uyainah,Bakiman.Uyainah@perum.ac.id,+62 (39) 459 1593
+79,Wira,Hidayat,Wira.Hidayat@pt.ac.id,(031) 357 9956
+80,Yoga,Pratama,Yoga.Pratama@pd.my.id,+62 (808) 448 1925
+81,Reza,Manullang,Reza.Manullang@pt.or.id,+62 (0369) 182-1058
+82,Banawa,Lestari,Banawa.Lestari@cv.biz.id,(010) 537-1564
+83,Jono,Usamah,Jono.Usamah@ud.ac.id,+62 (0958) 736-9391
+84,Waluyo,Maryadi,Waluyo.Maryadi@cv.ac.id,+62 (073) 845-2672
+85,Harimurti,Prastuti,Harimurti.Prastuti@ud.net,+62 (094) 142-4202
+86,Reza,Firgantoro,Reza.Firgantoro@pt.net,+62 (376) 642 9912
+87,Cahyo,Kuswandari,Cahyo.Kuswandari@perum.ac.id,+62 (0169) 835-5410
+88,Adika,Nababan,Adika.Nababan@pd.int,+62 (064) 208 5929
+89,Kurnia,Prayoga,Kurnia.Prayoga@pd.mil.id,(0171) 248-2286
+90,Anggabaya,Aryani,Anggabaya.Aryani@cv.ponpes.id,+62 (0838) 133-0465
+91,Banara,Rahayu,Banara.Rahayu@pd.mil.id,+62 (90) 021 4198
+92,Dirja,Megantara,Dirja.Megantara@perum.web.id,(0280) 717 2980
+93,Hasan,Gunarto,Hasan.Gunarto@pd.my.id,(007) 307-6693
+94,Cagak,Jailani,Cagak.Jailani@ud.mil,+62 (458) 863 2912
+95,Cecep,Siregar,Cecep.Siregar@pt.or.id,089 205 6049
+96,Jaeman,Permadi,Jaeman.Permadi@pd.int,(028) 283 9445
+97,Nadine,Sihotang,Nadine.Sihotang@ud.gov,+62-008-665-7233
+98,Prasetya,Pratiwi,Prasetya.Pratiwi@perum.edu,+62-0905-000-4853
+99,Natalia,Hidayat,Natalia.Hidayat@perum.co.id,082 287 6920
+100,Ivan,Suwarno,Ivan.Suwarno@cv.desa.id,082 145 1274
